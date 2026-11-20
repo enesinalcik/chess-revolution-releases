@@ -1,1 +1,1 @@
-# chess-revolution-releases
+Chess: Revolution Android APK Releases
